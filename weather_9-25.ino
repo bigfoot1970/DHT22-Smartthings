@@ -5,7 +5,7 @@
    Version 1.0  5/3/2014  Version 1.0   Mike Barela for Adafruit Industries
 */
 
-/* DHT22 integration with Smarthtings, derived from the above by Robert Dutton 2016
+/* DHT22 integration with Smarthtings, derived from the above by Bigfoot1970 2016
  */
 #include <ESP8266WiFi.h>
 #include <WiFiClient.h>
